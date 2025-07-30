@@ -6,7 +6,7 @@
 
 ## 🔥 About This Fork
 
-FarFromGame aims to create a **localized cloud gaming platform** with low-latency streaming, similar in essence to services like GameAway.in but uniquely tailored for personal GPU streaming or community hosting setups.
+FarFromGame aims to create a **localized cloud gaming platform** with low-latency streaming uniquely tailored for personal GPU streaming or community hosting setups.
 
 This fork of Moonlight-Qt will be customized to:
 
